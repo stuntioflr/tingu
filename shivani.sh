@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello fahad this side"
+echo "Hello fahwe1 this side"
